@@ -1,0 +1,233 @@
+[0.000000] (-) TimerEvent: {}
+[0.000770] (pioneer_gazebo) JobQueued: {'identifier': 'pioneer_gazebo', 'dependencies': OrderedDict()}
+[0.000843] (pioneer_gazebo) JobStarted: {'identifier': 'pioneer_gazebo'}
+[0.020794] (-) TimerEvent: {}
+[0.312249] (-) TimerEvent: {}
+[0.412975] (-) TimerEvent: {}
+[0.513550] (-) TimerEvent: {}
+[0.615310] (-) TimerEvent: {}
+[0.718537] (-) TimerEvent: {}
+[0.819478] (-) TimerEvent: {}
+[0.919840] (-) TimerEvent: {}
+[1.020795] (-) TimerEvent: {}
+[1.123237] (-) TimerEvent: {}
+[1.225092] (-) TimerEvent: {}
+[1.325883] (-) TimerEvent: {}
+[1.426400] (-) TimerEvent: {}
+[1.527171] (-) TimerEvent: {}
+[1.627626] (-) TimerEvent: {}
+[1.797977] (-) TimerEvent: {}
+[1.898332] (-) TimerEvent: {}
+[1.999452] (-) TimerEvent: {}
+[2.102342] (-) TimerEvent: {}
+[2.202752] (-) TimerEvent: {}
+[2.303134] (-) TimerEvent: {}
+[2.404663] (-) TimerEvent: {}
+[2.506332] (-) TimerEvent: {}
+[2.606998] (-) TimerEvent: {}
+[2.708069] (-) TimerEvent: {}
+[2.809184] (-) TimerEvent: {}
+[2.910247] (-) TimerEvent: {}
+[3.011076] (-) TimerEvent: {}
+[3.111518] (-) TimerEvent: {}
+[3.212487] (-) TimerEvent: {}
+[3.313229] (-) TimerEvent: {}
+[3.413699] (-) TimerEvent: {}
+[3.514971] (-) TimerEvent: {}
+[3.615486] (-) TimerEvent: {}
+[3.716005] (-) TimerEvent: {}
+[3.816400] (-) TimerEvent: {}
+[3.917470] (-) TimerEvent: {}
+[4.017859] (-) TimerEvent: {}
+[4.118722] (-) TimerEvent: {}
+[4.219793] (-) TimerEvent: {}
+[4.323837] (-) TimerEvent: {}
+[4.424289] (-) TimerEvent: {}
+[4.525023] (-) TimerEvent: {}
+[4.625464] (-) TimerEvent: {}
+[4.729305] (-) TimerEvent: {}
+[4.830379] (-) TimerEvent: {}
+[4.931448] (-) TimerEvent: {}
+[5.097850] (-) TimerEvent: {}
+[5.198197] (-) TimerEvent: {}
+[5.299198] (-) TimerEvent: {}
+[5.402054] (-) TimerEvent: {}
+[5.503502] (-) TimerEvent: {}
+[5.611104] (-) TimerEvent: {}
+[5.716181] (-) TimerEvent: {}
+[5.817428] (-) TimerEvent: {}
+[5.918835] (-) TimerEvent: {}
+[6.020712] (-) TimerEvent: {}
+[6.121760] (-) TimerEvent: {}
+[6.222194] (-) TimerEvent: {}
+[6.323981] (-) TimerEvent: {}
+[6.424326] (-) TimerEvent: {}
+[6.524675] (-) TimerEvent: {}
+[6.625127] (-) TimerEvent: {}
+[6.725937] (-) TimerEvent: {}
+[6.826731] (-) TimerEvent: {}
+[6.927136] (-) TimerEvent: {}
+[7.027573] (-) TimerEvent: {}
+[7.127965] (-) TimerEvent: {}
+[7.230193] (-) TimerEvent: {}
+[7.330990] (-) TimerEvent: {}
+[7.431394] (-) TimerEvent: {}
+[7.531966] (-) TimerEvent: {}
+[7.697854] (-) TimerEvent: {}
+[7.798245] (-) TimerEvent: {}
+[7.899018] (-) TimerEvent: {}
+[7.999702] (-) TimerEvent: {}
+[8.100147] (-) TimerEvent: {}
+[8.200690] (-) TimerEvent: {}
+[8.301271] (-) TimerEvent: {}
+[8.405649] (-) TimerEvent: {}
+[8.507211] (-) TimerEvent: {}
+[8.608286] (-) TimerEvent: {}
+[8.708725] (-) TimerEvent: {}
+[8.809433] (-) TimerEvent: {}
+[8.912069] (-) TimerEvent: {}
+[9.012856] (-) TimerEvent: {}
+[9.113733] (-) TimerEvent: {}
+[9.214786] (-) TimerEvent: {}
+[9.315515] (-) TimerEvent: {}
+[9.416067] (-) TimerEvent: {}
+[9.517782] (-) TimerEvent: {}
+[9.619541] (-) TimerEvent: {}
+[9.720275] (-) TimerEvent: {}
+[9.822712] (-) TimerEvent: {}
+[9.923087] (-) TimerEvent: {}
+[10.025489] (-) TimerEvent: {}
+[10.125956] (-) TimerEvent: {}
+[10.227359] (-) TimerEvent: {}
+[10.328020] (-) TimerEvent: {}
+[10.428596] (-) TimerEvent: {}
+[10.529026] (-) TimerEvent: {}
+[10.698145] (-) TimerEvent: {}
+[10.798521] (-) TimerEvent: {}
+[10.899084] (-) TimerEvent: {}
+[11.000145] (-) TimerEvent: {}
+[11.100545] (-) TimerEvent: {}
+[11.201377] (-) TimerEvent: {}
+[11.302922] (-) TimerEvent: {}
+[11.403719] (-) TimerEvent: {}
+[11.504080] (-) TimerEvent: {}
+[11.604492] (-) TimerEvent: {}
+[11.705738] (-) TimerEvent: {}
+[11.806248] (-) TimerEvent: {}
+[11.907428] (-) TimerEvent: {}
+[12.007845] (-) TimerEvent: {}
+[12.108597] (-) TimerEvent: {}
+[12.200194] (pioneer_gazebo) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/user/robot/build/pioneer_gazebo/build', '--no-deps', 'symlink_data'], 'cwd': '/home/user/robot/build/pioneer_gazebo', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://3_xterm:11345', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '3_xterm', 'PWD': '/home/user/robot/build/pioneer_gazebo', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'LANG': 'en_US.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'CMAKE_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/common_interfaces:/home/simulations/ros2_sims_ws/install/visualization_msgs:/home/simulations/ros2_sims_ws/install/test_msgs:/home/simulations/ros2_sims_ws/install/example_interfaces:/home/simulations/ros2_sims_ws/install/action_msgs:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs:/home/simulations/ros2_sims_ws/install/trajectory_msgs:/home/simulations/ros2_sims_ws/install/test_interface_files:/home/simulations/ros2_sims_ws/install/stereo_msgs:/home/simulations/ros2_sims_ws/install/std_srvs:/home/simulations/ros2_sims_ws/install/shape_msgs:/home/simulations/ros2_sims_ws/install/sensor_msgs:/home/simulations/ros2_sims_ws/install/nav_msgs:/home/simulations/ros2_sims_ws/install/diagnostic_msgs:/home/simulations/ros2_sims_ws/install/geometry_msgs:/home/simulations/ros2_sims_ws/install/actionlib_msgs:/home/simulations/ros2_sims_ws/install/std_msgs:/home/simulations/ros2_sims_ws/install/statistics_msgs:/home/simulations/ros2_sims_ws/install/rosgraph_msgs:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs:/home/simulations/ros2_sims_ws/install/composition_interfaces:/home/simulations/ros2_sims_ws/install/rcl_interfaces:/home/simulations/ros2_sims_ws/install/lifecycle_msgs:/home/simulations/ros2_sims_ws/install/builtin_interfaces:/home/simulations/ros2_sims_ws/install/rosidl_default_runtime:/home/simulations/ros2_sims_ws/install/rosidl_default_generators:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/robot/build/pioneer_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/test_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/action_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/stereo_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_srvs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/shape_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/nav_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/actionlib_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/statistics_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/composition_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '3_xterm', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://3_xterm:11311', 'ROS_HOSTNAME': '3_xterm', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/visualization_msgs/lib:/home/simulations/ros2_sims_ws/install/test_msgs/lib:/home/simulations/ros2_sims_ws/install/example_interfaces/lib:/home/simulations/ros2_sims_ws/install/action_msgs/lib:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/lib:/home/simulations/ros2_sims_ws/install/trajectory_msgs/lib:/home/simulations/ros2_sims_ws/install/stereo_msgs/lib:/home/simulations/ros2_sims_ws/install/std_srvs/lib:/home/simulations/ros2_sims_ws/install/shape_msgs/lib:/home/simulations/ros2_sims_ws/install/sensor_msgs/lib:/home/simulations/ros2_sims_ws/install/nav_msgs/lib:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/lib:/home/simulations/ros2_sims_ws/install/geometry_msgs/lib:/home/simulations/ros2_sims_ws/install/actionlib_msgs/lib:/home/simulations/ros2_sims_ws/install/std_msgs/lib:/home/simulations/ros2_sims_ws/install/statistics_msgs/lib:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/lib:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/lib:/home/simulations/ros2_sims_ws/install/composition_interfaces/lib:/home/simulations/ros2_sims_ws/install/rcl_interfaces/lib:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/lib:/home/simulations/ros2_sims_ws/install/builtin_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '959339', 'SLOT_PREFIX': '28f39d45-88ea-40a1-9f10-ec1ef20eaa31', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': '', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25533', 'SLOT_SYSTEMD': 'False', 'PATH': '/home/user/.local/bin:/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin', 'SELECTED_ROS_DISTRO': 'humble', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin', 'NODE_VERSION': 'v8.17.0', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'humble', 'GAZEBO_VERBOSE': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user', 'SOURCE_ROS2_WS': 'True', 'SLOT_ROSBRIDGE_PORT': '20003', '_': '/usr/bin/env'}, 'shell': False}
+[12.209343] (-) TimerEvent: {}
+[12.310640] (-) TimerEvent: {}
+[12.415143] (-) TimerEvent: {}
+[12.516379] (-) TimerEvent: {}
+[12.618683] (-) TimerEvent: {}
+[12.720718] (-) TimerEvent: {}
+[12.823482] (-) TimerEvent: {}
+[12.927172] (-) TimerEvent: {}
+[13.097858] (-) TimerEvent: {}
+[13.198214] (-) TimerEvent: {}
+[13.298933] (-) TimerEvent: {}
+[13.399696] (-) TimerEvent: {}
+[13.422861] (pioneer_gazebo) StderrLine: {'line': b"/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[13.423211] (pioneer_gazebo) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[13.499798] (-) TimerEvent: {}
+[13.600186] (-) TimerEvent: {}
+[13.704598] (-) TimerEvent: {}
+[13.805776] (-) TimerEvent: {}
+[13.906345] (-) TimerEvent: {}
+[14.007278] (-) TimerEvent: {}
+[14.108347] (-) TimerEvent: {}
+[14.209286] (-) TimerEvent: {}
+[14.309591] (-) TimerEvent: {}
+[14.410631] (-) TimerEvent: {}
+[14.513097] (-) TimerEvent: {}
+[14.613614] (-) TimerEvent: {}
+[14.714031] (-) TimerEvent: {}
+[14.814402] (-) TimerEvent: {}
+[14.915791] (-) TimerEvent: {}
+[15.019089] (-) TimerEvent: {}
+[15.121296] (-) TimerEvent: {}
+[15.211285] (pioneer_gazebo) StdoutLine: {'line': b'running develop\n'}
+[15.221558] (-) TimerEvent: {}
+[15.322780] (-) TimerEvent: {}
+[15.423234] (-) TimerEvent: {}
+[15.524282] (-) TimerEvent: {}
+[15.624652] (-) TimerEvent: {}
+[15.725080] (-) TimerEvent: {}
+[15.825564] (-) TimerEvent: {}
+[15.926173] (-) TimerEvent: {}
+[16.026528] (-) TimerEvent: {}
+[16.128361] (-) TimerEvent: {}
+[16.228729] (-) TimerEvent: {}
+[16.397865] (-) TimerEvent: {}
+[16.498824] (-) TimerEvent: {}
+[16.600904] (-) TimerEvent: {}
+[16.701667] (-) TimerEvent: {}
+[16.802409] (-) TimerEvent: {}
+[16.903497] (-) TimerEvent: {}
+[17.003910] (-) TimerEvent: {}
+[17.104291] (-) TimerEvent: {}
+[17.204731] (-) TimerEvent: {}
+[17.305100] (-) TimerEvent: {}
+[17.405525] (-) TimerEvent: {}
+[17.508236] (-) TimerEvent: {}
+[17.608647] (-) TimerEvent: {}
+[17.709072] (-) TimerEvent: {}
+[17.817447] (-) TimerEvent: {}
+[17.922553] (-) TimerEvent: {}
+[18.023078] (-) TimerEvent: {}
+[18.123915] (-) TimerEvent: {}
+[18.297968] (-) TimerEvent: {}
+[18.398353] (-) TimerEvent: {}
+[18.499094] (-) TimerEvent: {}
+[18.602075] (-) TimerEvent: {}
+[18.702538] (-) TimerEvent: {}
+[18.805597] (-) TimerEvent: {}
+[18.906514] (-) TimerEvent: {}
+[19.007044] (-) TimerEvent: {}
+[19.107446] (-) TimerEvent: {}
+[19.208900] (-) TimerEvent: {}
+[19.309625] (-) TimerEvent: {}
+[19.410721] (-) TimerEvent: {}
+[19.512129] (-) TimerEvent: {}
+[19.522577] (pioneer_gazebo) StdoutLine: {'line': b'running egg_info\n'}
+[19.612244] (-) TimerEvent: {}
+[19.704270] (pioneer_gazebo) StdoutLine: {'line': b'creating pioneer_gazebo.egg-info\n'}
+[19.704527] (pioneer_gazebo) StdoutLine: {'line': b'writing pioneer_gazebo.egg-info/PKG-INFO\n'}
+[19.704639] (pioneer_gazebo) StdoutLine: {'line': b'writing dependency_links to pioneer_gazebo.egg-info/dependency_links.txt\n'}
+[19.704738] (pioneer_gazebo) StdoutLine: {'line': b'writing entry points to pioneer_gazebo.egg-info/entry_points.txt\n'}
+[19.704839] (pioneer_gazebo) StdoutLine: {'line': b'writing requirements to pioneer_gazebo.egg-info/requires.txt\n'}
+[19.704929] (pioneer_gazebo) StdoutLine: {'line': b'writing top-level names to pioneer_gazebo.egg-info/top_level.txt\n'}
+[19.705018] (pioneer_gazebo) StdoutLine: {'line': b"writing manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'\n"}
+[19.712369] (-) TimerEvent: {}
+[19.812963] (-) TimerEvent: {}
+[19.913714] (-) TimerEvent: {}
+[20.014997] (-) TimerEvent: {}
+[20.115372] (-) TimerEvent: {}
+[20.215915] (-) TimerEvent: {}
+[20.318459] (-) TimerEvent: {}
+[20.419598] (-) TimerEvent: {}
+[20.424489] (pioneer_gazebo) StdoutLine: {'line': b"reading manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'\n"}
+[20.427849] (pioneer_gazebo) StdoutLine: {'line': b"writing manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'\n"}
+[20.519934] (-) TimerEvent: {}
+[20.620911] (-) TimerEvent: {}
+[20.697940] (pioneer_gazebo) StdoutLine: {'line': b'running build_ext\n'}
+[20.698289] (pioneer_gazebo) StdoutLine: {'line': b'Creating /home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages/pioneer-gazebo.egg-link (link to .)\n'}
+[20.698429] (pioneer_gazebo) StdoutLine: {'line': b'Installing demo script to /home/user/robot/install/pioneer_gazebo/lib/pioneer_gazebo\n'}
+[20.699077] (pioneer_gazebo) StdoutLine: {'line': b'\n'}
+[20.699252] (pioneer_gazebo) StdoutLine: {'line': b'Installed /home/user/robot/build/pioneer_gazebo\n'}
+[20.699403] (pioneer_gazebo) StdoutLine: {'line': b'running symlink_data\n'}
+[20.699805] (pioneer_gazebo) StdoutLine: {'line': b'creating /home/user/robot/install/pioneer_gazebo/share/ament_index/resource_index/packages\n'}
+[20.699947] (pioneer_gazebo) StdoutLine: {'line': b'symbolically linking /home/user/robot/build/pioneer_gazebo/resource/pioneer_gazebo -> /home/user/robot/install/pioneer_gazebo/share/ament_index/resource_index/packages\n'}
+[20.700134] (pioneer_gazebo) StdoutLine: {'line': b'symbolically linking /home/user/robot/build/pioneer_gazebo/package.xml -> /home/user/robot/install/pioneer_gazebo/share/pioneer_gazebo\n'}
+[20.700291] (pioneer_gazebo) StdoutLine: {'line': b'creating /home/user/robot/install/pioneer_gazebo/share/pioneer_gazebo/launch\n'}
+[20.700436] (pioneer_gazebo) StdoutLine: {'line': b'symbolically linking /home/user/robot/build/pioneer_gazebo/launch/pioneer_gazebo_launch.py -> /home/user/robot/install/pioneer_gazebo/share/pioneer_gazebo/launch\n'}
+[20.700865] (pioneer_gazebo) StdoutLine: {'line': b'symbolically linking /home/user/robot/build/pioneer_gazebo/launch/default.launch.py -> /home/user/robot/install/pioneer_gazebo/share/pioneer_gazebo/launch\n'}
+[20.721103] (-) TimerEvent: {}
+[20.824338] (-) TimerEvent: {}
+[20.825590] (pioneer_gazebo) CommandEnded: {'returncode': 0}
+[20.923647] (pioneer_gazebo) JobEnded: {'identifier': 'pioneer_gazebo', 'rc': 0}
+[20.924503] (-) TimerEvent: {}
+[20.924994] (-) EventReactorShutdown: {}

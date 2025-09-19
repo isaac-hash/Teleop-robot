@@ -1,0 +1,2 @@
+[console_scripts]
+demo = pioneer_gazebo.demo:main

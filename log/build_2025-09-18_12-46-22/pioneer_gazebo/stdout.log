@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing pioneer_gazebo.egg-info/PKG-INFO
+writing dependency_links to pioneer_gazebo.egg-info/dependency_links.txt
+writing entry points to pioneer_gazebo.egg-info/entry_points.txt
+writing requirements to pioneer_gazebo.egg-info/requires.txt
+writing top-level names to pioneer_gazebo.egg-info/top_level.txt
+reading manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages/pioneer-gazebo.egg-link (link to .)
+Installing demo script to /home/user/robot/install/pioneer_gazebo/lib/pioneer_gazebo
+
+Installed /home/user/robot/build/pioneer_gazebo
+running symlink_data
