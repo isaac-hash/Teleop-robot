@@ -1,0 +1,19 @@
+[1.106s] Invoking command in '/home/user/robot/build/pioneer_gazebo': PYTHONPATH=/home/user/robot/build/pioneer_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/robot/build/pioneer_gazebo/build --no-deps symlink_data
+[1.337s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.337s]   warnings.warn(msg)
+[1.603s] running develop
+[1.938s] running egg_info
+[1.970s] writing pioneer_gazebo.egg-info/PKG-INFO
+[1.971s] writing dependency_links to pioneer_gazebo.egg-info/dependency_links.txt
+[1.972s] writing entry points to pioneer_gazebo.egg-info/entry_points.txt
+[1.972s] writing requirements to pioneer_gazebo.egg-info/requires.txt
+[1.972s] writing top-level names to pioneer_gazebo.egg-info/top_level.txt
+[2.028s] reading manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'
+[2.030s] writing manifest file 'pioneer_gazebo.egg-info/SOURCES.txt'
+[2.067s] running build_ext
+[2.067s] Creating /home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages/pioneer-gazebo.egg-link (link to .)
+[2.068s] Installing demo script to /home/user/robot/install/pioneer_gazebo/lib/pioneer_gazebo
+[2.068s] 
+[2.068s] Installed /home/user/robot/build/pioneer_gazebo
+[2.068s] running symlink_data
+[2.109s] Invoked command in '/home/user/robot/build/pioneer_gazebo' returned '0': PYTHONPATH=/home/user/robot/build/pioneer_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/robot/install/pioneer_gazebo/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/robot/build/pioneer_gazebo/build --no-deps symlink_data

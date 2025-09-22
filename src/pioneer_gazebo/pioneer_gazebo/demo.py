@@ -1,5 +1,5 @@
-from framework_core.decorators import node, publisher, timer
-from framework_core.helpers import spin_node
+from genesys.decorators import node, publisher, timer
+from genesys.helpers import spin_node
 from geometry_msgs.msg import Twist
 import sys, termios, tty, select, os
 
